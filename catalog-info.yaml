@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: zat
+  annotations:
+    github.com/project-slug: nkammah/zat
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
